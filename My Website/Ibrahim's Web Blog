@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <title>Ibrahim Khan's Website</title>
+    </head>
+    <head><strong> Ibrahim </strong></head>
+    <body>
+        <div class="Introduction">
+            <p>Hey! My name's Ibrahim, let me tell you a
+    little bit more about myself. So, sit back and enjoy
+     scrolling as we go through my blog!</p>
+        </div>
+        <div>
+            <img src="images/pic01.jpg" width="200px" height="150"/>
+            <img src="images/pic09.jpg" width="200px"/>
+        </div>
+        <div>
+            <img src="images/pic04.jpg" width="200px" height ="266px"/>
+            <img src="images/pic03.jpg" width="200px"/>
+        </div>
+    </body>
+</html>
